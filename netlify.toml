@@ -2,3 +2,8 @@
   from = "/scopeagent/*"
   to = "/scopeagent/index.html"
   status = 200
+
+[[redirects]]
+  from = "/"
+  to = "https://undefinedlabs.com"
+  status = 302
