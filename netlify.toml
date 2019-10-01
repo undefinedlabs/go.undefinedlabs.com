@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/scopeagent/*"
+  to = "/scopeagent/index.html"
+  status = 200
