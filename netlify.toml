@@ -4,6 +4,11 @@
   status = 200
 
 [[redirects]]
+  from = "/scopeimport/*"
+  to = "/scopeimport/index.html"
+  status = 200
+
+[[redirects]]
   from = "/"
   to = "https://undefinedlabs.com"
   status = 302
